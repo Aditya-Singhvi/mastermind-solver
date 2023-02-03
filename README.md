@@ -1,6 +1,8 @@
 # mastermind-solver
 Solver and playable interface for games such as Mastermind. Loosely based on information-theoretic ideas.
 
+Also see https://github.com/amaheshwari25/InfoTheory1Project.
+
 ## Rules
 Games such as Bagel and Mastermind are based on guessing a specific digit-pattern (all unique) from a given alphabet of digits. 
 
